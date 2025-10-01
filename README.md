@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MagiaGatuna/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MagiaGatuna/Leetcode/tree/master/0066-plus-one) |
+| [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MagiaGatuna/Leetcode/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
