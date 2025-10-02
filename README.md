@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/MagiaGatuna/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/MagiaGatuna/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/MagiaGatuna/Leetcode/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/MagiaGatuna/Leetcode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MagiaGatuna/Leetcode/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Depth-First Search
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/MagiaGatuna/Leetcode/tree/master/1013-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MagiaGatuna/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
