@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/MagiaGatuna/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/MagiaGatuna/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MagiaGatuna/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/MagiaGatuna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0066-plus-one](https://github.com/MagiaGatuna/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0136-single-number) |
 | [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MagiaGatuna/Leetcode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/MagiaGatuna/Leetcode/tree/master/0036-valid-sudoku) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/MagiaGatuna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
 ## Tree
 |  |
