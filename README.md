@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MagiaGatuna/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MagiaGatuna/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0136-single-number) |
+| [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
+## Matrix
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
