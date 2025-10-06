@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MagiaGatuna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/MagiaGatuna/Leetcode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/MagiaGatuna/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/MagiaGatuna/Leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0136-single-number) |
 | [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
 | [2058-concatenation-of-array](https://github.com/MagiaGatuna/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MagiaGatuna/Leetcode/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/MagiaGatuna/Leetcode/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/MagiaGatuna/Leetcode/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MagiaGatuna/Leetcode/tree/master/0258-add-digits) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/MagiaGatuna/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
