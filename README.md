@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0136-single-number) |
 | [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
+| [0682-baseball-game](https://github.com/MagiaGatuna/Leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/MagiaGatuna/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -66,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/MagiaGatuna/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MagiaGatuna/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MagiaGatuna/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/MagiaGatuna/Leetcode/tree/master/0682-baseball-game) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MagiaGatuna/Leetcode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/MagiaGatuna/Leetcode/tree/master/0682-baseball-game) |
 | [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/MagiaGatuna/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3336-water-bottles-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/3336-water-bottles-ii) |
