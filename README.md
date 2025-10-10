@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/MagiaGatuna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/MagiaGatuna/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/MagiaGatuna/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/0047-permutations-ii) |
 | [0066-plus-one](https://github.com/MagiaGatuna/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MagiaGatuna/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/MagiaGatuna/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0088-merge-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MagiaGatuna/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -141,4 +143,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/MagiaGatuna/Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
