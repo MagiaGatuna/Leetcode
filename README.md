@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MagiaGatuna/Leetcode/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/MagiaGatuna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/MagiaGatuna/Leetcode/tree/master/0041-first-missing-positive) |
 ## Math
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MagiaGatuna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MagiaGatuna/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/MagiaGatuna/Leetcode/tree/master/0344-reverse-string) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/MagiaGatuna/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
