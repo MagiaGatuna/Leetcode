@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/MagiaGatuna/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MagiaGatuna/Leetcode/tree/master/0283-move-zeroes) |
 | [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/MagiaGatuna/Leetcode/tree/master/0682-baseball-game) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/MagiaGatuna/Leetcode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/MagiaGatuna/Leetcode/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/MagiaGatuna/Leetcode/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/MagiaGatuna/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MagiaGatuna/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/MagiaGatuna/Leetcode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
 | [3336-water-bottles-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/3336-water-bottles-ii) |
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/MagiaGatuna/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/MagiaGatuna/Leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MagiaGatuna/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
@@ -140,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/MagiaGatuna/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MagiaGatuna/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Backtracking
 |  |
