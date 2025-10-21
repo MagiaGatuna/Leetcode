@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/MagiaGatuna/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/MagiaGatuna/Leetcode/tree/master/0792-binary-search) |
+| [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [2058-concatenation-of-array](https://github.com/MagiaGatuna/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MagiaGatuna/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MagiaGatuna/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MagiaGatuna/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/MagiaGatuna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
+| [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/MagiaGatuna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MagiaGatuna/Leetcode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/MagiaGatuna/Leetcode/tree/master/0344-reverse-string) |
+| [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MagiaGatuna/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/MagiaGatuna/Leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
