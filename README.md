@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MagiaGatuna/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/MagiaGatuna/Leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/MagiaGatuna/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/MagiaGatuna/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MagiaGatuna/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MagiaGatuna/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/MagiaGatuna/Leetcode/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/MagiaGatuna/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/3336-water-bottles-ii) |
 ## Bit Manipulation
 |  |
