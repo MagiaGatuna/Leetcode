@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MagiaGatuna/Leetcode/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/MagiaGatuna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/MagiaGatuna/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/MagiaGatuna/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/MagiaGatuna/Leetcode/tree/master/0058-length-of-last-word) |
+| [0299-bulls-and-cows](https://github.com/MagiaGatuna/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/MagiaGatuna/Leetcode/tree/master/0344-reverse-string) |
 | [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MagiaGatuna/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/MagiaGatuna/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/0047-permutations-ii) |
+## Counting
+|  |
+| ------- |
+| [0299-bulls-and-cows](https://github.com/MagiaGatuna/Leetcode/tree/master/0299-bulls-and-cows) |
 <!---LeetCode Topics End-->
