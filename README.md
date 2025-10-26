@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MagiaGatuna/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/MagiaGatuna/Leetcode/tree/master/0299-bulls-and-cows) |
+| [0782-jewels-and-stones](https://github.com/MagiaGatuna/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
 ## Math
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/MagiaGatuna/Leetcode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/MagiaGatuna/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/MagiaGatuna/Leetcode/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/MagiaGatuna/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MagiaGatuna/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/MagiaGatuna/Leetcode/tree/master/3379-score-of-a-string) |
