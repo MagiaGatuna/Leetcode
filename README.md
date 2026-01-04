@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0896-monotonic-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MagiaGatuna/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1470-shuffle-the-array](https://github.com/MagiaGatuna/Leetcode/tree/master/1470-shuffle-the-array) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/MagiaGatuna/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1929-concatenation-of-array](https://github.com/MagiaGatuna/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MagiaGatuna/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2058-concatenation-of-array](https://github.com/MagiaGatuna/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/MagiaGatuna/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MagiaGatuna/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
+| [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/MagiaGatuna/Leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MagiaGatuna/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Backtracking
 |  |
