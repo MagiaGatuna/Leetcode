@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/MagiaGatuna/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/MagiaGatuna/Leetcode/tree/master/1013-fibonacci-number) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/MagiaGatuna/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/MagiaGatuna/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/3336-water-bottles-ii) |
