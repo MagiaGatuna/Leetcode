@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/MagiaGatuna/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MagiaGatuna/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [1768-merge-strings-alternately](https://github.com/MagiaGatuna/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/MagiaGatuna/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3379-score-of-a-string](https://github.com/MagiaGatuna/Leetcode/tree/master/3379-score-of-a-string) |
 ## Two Pointers
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MagiaGatuna/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MagiaGatuna/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MagiaGatuna/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [1768-merge-strings-alternately](https://github.com/MagiaGatuna/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MagiaGatuna/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
