@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/MagiaGatuna/Leetcode/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/MagiaGatuna/Leetcode/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/MagiaGatuna/Leetcode/tree/master/0822-unique-morse-code-words) |
+| [0860-lemonade-change](https://github.com/MagiaGatuna/Leetcode/tree/master/0860-lemonade-change) |
 | [0896-monotonic-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0896-monotonic-array) |
 | [0944-delete-columns-to-make-sorted](https://github.com/MagiaGatuna/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1470-shuffle-the-array](https://github.com/MagiaGatuna/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/MagiaGatuna/Leetcode/tree/master/0299-bulls-and-cows) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/MagiaGatuna/Leetcode/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
