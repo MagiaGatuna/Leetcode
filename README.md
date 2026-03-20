@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0299-bulls-and-cows](https://github.com/MagiaGatuna/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/MagiaGatuna/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MagiaGatuna/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0468-validate-ip-address](https://github.com/MagiaGatuna/Leetcode/tree/master/0468-validate-ip-address) |
 | [0657-robot-return-to-origin](https://github.com/MagiaGatuna/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/MagiaGatuna/Leetcode/tree/master/0709-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/MagiaGatuna/Leetcode/tree/master/0782-jewels-and-stones) |
