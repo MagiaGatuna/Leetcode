@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/MagiaGatuna/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/MagiaGatuna/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/MagiaGatuna/Leetcode/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/MagiaGatuna/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/MagiaGatuna/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/MagiaGatuna/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MagiaGatuna/Leetcode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/MagiaGatuna/Leetcode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/MagiaGatuna/Leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/MagiaGatuna/Leetcode/tree/master/0682-baseball-game) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/MagiaGatuna/Leetcode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/MagiaGatuna/Leetcode/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/MagiaGatuna/Leetcode/tree/master/0463-island-perimeter) |
 | [1672-richest-customer-wealth](https://github.com/MagiaGatuna/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Tree
