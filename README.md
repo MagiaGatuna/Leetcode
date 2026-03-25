@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/MagiaGatuna/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/MagiaGatuna/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/MagiaGatuna/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/MagiaGatuna/Leetcode/tree/master/1013-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/MagiaGatuna/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1642-water-bottles](https://github.com/MagiaGatuna/Leetcode/tree/master/1642-water-bottles) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/MagiaGatuna/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/MagiaGatuna/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/MagiaGatuna/Leetcode/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/MagiaGatuna/Leetcode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/MagiaGatuna/Leetcode/tree/master/0792-binary-search) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/MagiaGatuna/Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
